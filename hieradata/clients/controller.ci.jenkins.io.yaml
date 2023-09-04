@@ -123,7 +123,7 @@ profile::jenkinscontroller::jcasc:
             label: "s390x"
             cpu_arch: "s390x"
             subdir: "jdk-21+34"
-            version: "21-2023-08-09-06-56-beta"
+            version: "21+35-ea-beta"
   permanent_agents:
     s390x-agent:
       remoteFS: /home/jenkins/agent
